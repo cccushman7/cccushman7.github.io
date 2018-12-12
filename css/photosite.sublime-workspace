@@ -1,0 +1,455 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "normalize.css",
+			"settings":
+			{
+				"buffer_size": 6136,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "normalize.css"
+			}
+		},
+		{
+			"file": "/Users/clarkcushman/Documents/html_project/index.html",
+			"settings":
+			{
+				"buffer_size": 1942,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/clarkcushman/Documents/html_project/about.html",
+			"settings":
+			{
+				"buffer_size": 1452,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "about.html"
+			}
+		},
+		{
+			"file": "main.css",
+			"settings":
+			{
+				"buffer_size": 2541,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "main.css"
+			}
+		},
+		{
+			"file": "responsive.css",
+			"settings":
+			{
+				"buffer_size": 985,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "responsive.css"
+			}
+		},
+		{
+			"file": "/Users/clarkcushman/Documents/html_project/contact.html",
+			"settings":
+			{
+				"buffer_size": 1785,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/clarkcushman/Documents/html_project/contact.html",
+		"/Users/clarkcushman/Documents/html_project/css/main.css",
+		"/Users/clarkcushman/Documents/html_project/index.html",
+		"/Users/clarkcushman/Desktop/Screenshots/img1.png",
+		"/Users/clarkcushman/Desktop/Screenshots/img2.png",
+		"/Users/clarkcushman/Desktop/Screenshots/Screen Shot 2018-10-31 at 11.40.14 AM.png",
+		"/Users/clarkcushman/Desktop/Screenshots/Screen Shot 2018-10-31 at 11.43.47 AM.png",
+		"/Users/clarkcushman/Desktop/Screenshots/Screen Shot 2018-10-31 at 11.45.56 AM.png",
+		"/Users/clarkcushman/Desktop/Screenshots/Screen Shot 2018-10-31 at 11.44.15 AM.png",
+		"/Users/clarkcushman/Desktop/Screenshots/Screen Shot 2018-10-31 at 11.44.53 AM.png",
+		"/Users/clarkcushman/Desktop/Screenshots/Screen Shot 2018-10-31 at 11.49.51 AM.png",
+		"/Users/clarkcushman/Desktop/Screenshots/Screen Shot 2018-10-31 at 11.52.29 AM.png",
+		"/Users/clarkcushman/Desktop/Screenshots/Screen Shot 2018-10-31 at 11.55.07 AM.png",
+		"/Users/clarkcushman/Documents/index.html",
+		"/Users/clarkcushman/Downloads/cocoon/Documentation/css/custom.css",
+		"/Users/clarkcushman/Downloads/cocoon/Documentation/newyork.html",
+		"/Users/clarkcushman/Downloads/cocoon/Documentation/index.html",
+		"/Users/clarkcushman/Downloads/cocoon/Documentation/package-lock.json",
+		"/Users/clarkcushman/Downloads/cocoon/Documentation/node_modules/http-server/bin/http-server",
+		"/Users/clarkcushman/Documents/python/server_side_mixpanel.py",
+		"/Users/clarkcushman/Documents/python/practice6.py",
+		"/Users/clarkcushman/Documents/python/ticTacToe.py",
+		"/Users/clarkcushman/Documents/python/practice5.py",
+		"/Users/clarkcushman/Documents/python/sameName4.py",
+		"/Users/clarkcushman/Documents/python/practice4.py",
+		"/Users/clarkcushman/Documents/python/guessTheNumber.py",
+		"/Users/clarkcushman/Documents/python/collatzSequence.py",
+		"/Users/clarkcushman/Documents/python/guessTheNumber2.py",
+		"/Users/clarkcushman/Documents/python/practice3.py",
+		"/Users/clarkcushman/Documents/python/allMyCats1.py",
+		"/Users/clarkcushman/Documents/python/practice2.py",
+		"/Users/clarkcushman/Documents/python/practice.py",
+		"/Users/clarkcushman/Documents/python/vampire.py",
+		"/Users/clarkcushman/Documents/python/atbs_1.py",
+		"/Users/clarkcushman/Documents/python/swordfish.py",
+		"/Users/clarkcushman/Documents/python/mixpanelapi.py",
+		"/Users/clarkcushman/Documents/python/event_export.py",
+		"/Users/clarkcushman/Documents/python/events-export-to-csv.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"orange",
+			"structure",
+			"html/",
+			"html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/clarkcushman/Documents/html_project"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "normalize.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								609,
+								609
+							]
+						],
+						"settings":
+						{
+							"auto_name": "normalize.css",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/clarkcushman/Documents/html_project/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								425,
+								427
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/clarkcushman/Documents/html_project/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								424,
+								424
+							]
+						],
+						"settings":
+						{
+							"auto_name": "about.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1152,
+								1152
+							]
+						],
+						"settings":
+						{
+							"auto_name": "main.css",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 795.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "responsive.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								505,
+								505
+							]
+						],
+						"settings":
+						{
+							"auto_name": "responsive.css",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 154.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/clarkcushman/Documents/html_project/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
